@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "bunto-chat": "bunto-chat",
+    "default": "bunto-chat"
+  }
+}

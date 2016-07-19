@@ -1,0 +1,7 @@
+{
+  "name": "Bunto Chat",
+  "short_name": "Bunto Chat",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait"
+}

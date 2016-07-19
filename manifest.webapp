@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "name": "Bunto Chat",
+  "launch_path": "/index.html",
+  "description": "Chat with other developers about Bunto using Firebase 2.0",
+  "developer": {
+    "name": "Suriyaa Kudo (Founder of Bunto)",
+    "url": "https://bunto-chat.google.com"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "Bunto Chat",
+      "description": "Chat with other developers about Bunto Firebase 2.0"
+    }
+  }
+}
